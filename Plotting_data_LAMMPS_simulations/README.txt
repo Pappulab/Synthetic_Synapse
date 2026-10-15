@@ -1,0 +1,3 @@
+This folder contains the two .xlsx files,"largestclusterscaffold_vs_N_epshetero15.0.xlsx" and "largestclusterscaffold_vs_epshomo_epshetero15.0.xlsx" used to generate the plots shown in Figure 1(e) and Extended Data Figure 1(a), respectively. 
+
+It also contains the relevant python scripts which were used to read the simulation data files (LAMMPS trajectory files) that were generated within our HPC cluster, and to perform the clustering analysis that is used to calculate the fraction of scaffold present in the largest connected cluster, for each condition. 
